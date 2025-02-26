@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Amanda Pontes.
+I'm 32 and I'm from Brazil. I have a degree in IT, but I currently work in aviation.
 
 <!--
 **amandapontes/amandapontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
